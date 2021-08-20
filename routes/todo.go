@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gofiber/fiber/v2"
-	"github.com/devsmranjan/golang-fiber-basic-todo-app/controllers"
+	"github.com/Wikilags/Proyecto_GO/controllers"
 )
 
 func TodoRoute(route fiber.Router) {

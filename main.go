@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/devsmranjan/golang-fiber-basic-todo-app/config"
-	"github.com/devsmranjan/golang-fiber-basic-todo-app/routes"
+	"github.com/Wikilags/Proyecto_GO/config"
+	"github.com/Wikilags/Proyecto_GO/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/joho/godotenv"

@@ -1,4 +1,4 @@
-module github.com/devsmranjan/golang-fiber-basic-todo-app
+module github.com/Wikilags/Proyecto_GO
 
 go 1.15
 
